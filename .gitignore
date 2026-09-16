@@ -1,0 +1,6 @@
+.pytest_cache
+.vscode
+Assignment1_mDNS_Bluetooth\__pycache__
+Assignment1_mDNS_Bluetooth\.pytest_cache
+Assignment2_BLE_WiFi_Setup\__pycache__
+Assignment2_BLE_WiFi_Setup\.pytest_cache
