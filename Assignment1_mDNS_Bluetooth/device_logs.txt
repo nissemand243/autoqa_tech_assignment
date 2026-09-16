@@ -1,0 +1,8 @@
+14:00:00 Device boot complete
+14:00:05 WiFi connected SSID=HomeWiFi IP=192.168.1.123
+14:00:06 mDNS advertisement started hostname=Beosound-Balance-12345678.local
+14:05:10 Router restart detected
+14:05:45 WiFi disconnected
+14:05:55 WiFi reconnected IP=192.168.1.128
+14:05:56 App discovery request issued
+14:05:58 Device not visible in app

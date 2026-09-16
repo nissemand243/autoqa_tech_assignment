@@ -1,0 +1,8 @@
+14:00:00 Device power on
+14:00:02 BLE advertising started
+14:00:10 Mobile app connected over BLE
+14:00:15 WiFi credentials transferred
+14:00:18 BLE disconnected unexpectedly
+14:00:25 Device attempting WiFi join
+14:00:40 DHCP timeout
+14:00:50 Setup failed
