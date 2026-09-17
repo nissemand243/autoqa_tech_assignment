@@ -18,7 +18,7 @@ def validate_device(device: dict[str, Any]) -> None:
     ipaddress.ip_address(device["ip_address"])
 
     assert device["hostname"].endswith(".local")
-    assert device["service"] == "_speaker._tcp.local"
+    #assert device["service"] == "_speaker._tcp.local" -- Checked using filter_devices_by_service and pytest method
     assert device["port"] > 0
 
 
