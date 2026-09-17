@@ -12,5 +12,19 @@
       "fv": "6.3.0.31",
       "fn": "Beosound Balance"
     }
+  },
+  {
+    "name":"Beosound A9",
+    "hostname": "Beosound-A9-11223344.local",
+    "ip_address": "192.168.1.101",
+    "service": "_speaker._tcp.local",
+    "port": 80,
+    "txt_records": {
+      "wa": "00:27:A9:11:22:1F",
+      "sn": "99887766",
+      "pt": "2026-08-10T00:02:13Z",
+      "fv": "5.9.1.20",
+      "fn": "Beosound A9"
+    }
   }
 ]
