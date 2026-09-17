@@ -6,7 +6,7 @@
 - - As I am not super experienced in Bluetooth, mDNS and Wi-Fi connectivity, I had much to discover during this, and it helped substantially!
 
 - Approximately how much time did you spend using it?
-- - I must admit: Too much.. Due to lack of experience in the related wireless connectivity technologies and protocols, I spent ~8 hours answering assignment1, having the AI running alongside me on the way, asking questions, clarifying, researching etc.
+- - I must admit: Too much.. Due to lack of experience in the related wireless connectivity technologies and protocols, I spent ~6 hours answering assignment1, having the AI running alongside me on the way, asking questions, clarifying, researching etc.
 
 - Which part of your solution benefited the most from it?
 - - The solution to Part 1 benefitted the most from it. Even though I did not manage to cover all, I feel the AI helped me learn enough, to answer some of it.
