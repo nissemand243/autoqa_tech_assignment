@@ -1,0 +1,13 @@
+============================= test session starts =============================
+platform win32 -- Python 3.14.7, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\xande\AppData\Local\Programs\Python\Python314\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\xande\OneDrive\Skrivebord\autoqa_tech_assignment-main\Assignment1_mDNS_Bluetooth
+collecting ... collected 5 items
+
+test_template.py::test_device_is_discoverable PASSED                     [ 20%]
+test_template.py::test_devices_are_valid PASSED                          [ 40%]
+test_template.py::test_ip_addresses_are_usable PASSED                    [ 60%]
+test_template.py::test_correct_service_advertised PASSED                 [ 80%]
+test_template.py::test_no_duplicate_hostnames PASSED                     [100%]
+
+============================== 5 passed in 0.06s ==============================
